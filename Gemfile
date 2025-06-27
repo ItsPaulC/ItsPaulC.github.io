@@ -14,4 +14,3 @@ end
 gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
 
 gem "logger"
-gem "jekyll-google_search_console_verification_file", "~> 1.1", group: :jekyll_plugins
